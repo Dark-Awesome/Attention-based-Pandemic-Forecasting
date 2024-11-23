@@ -1,7 +1,8 @@
 <h1 align="center">Attention-based-Pandemic-Forecasting</h1>
 <h3 align="center">Self-Attention based Architecture for Forecasting the Pandemic Spread in India</h3>
 
-This repository contains the implementation of the paper titled **"Self-Attention based Architecture for Forecasting the Pandemic Spread in India"** published at **INDICON 24**. The work aims to use a self-attention mechanism for accurate prediction of COVID-19 spread in India.
+This repository contains the implementation of the paper titled **"Self-Attention based Architecture for Forecasting the Pandemic Spread in India"** published at **INDICON 24**. The work aims to use a self-attention mechanism for accurate prediction of COVID-19 spread in India. 
+Paper Link - [Indicon 24'](https://ieeekharagpur.org/event/21st-ieee-india-council-international-conference-indicon-2024/)
 
 ## Overview
 
