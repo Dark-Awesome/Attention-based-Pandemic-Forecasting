@@ -26,8 +26,8 @@ You can install the necessary packages via `requirements.txt`:
 pip install -r requirements.txt
 ```
 
-##Reference
+## Reference
 
 
-##Acknowledgment
+## Acknowledgment
 This project is supported by the Indian Council of Medical Research ([ICMR](https://covid19dashboard.mohfw.gov.in/)). We extend our gratitude to ICMR for providing the COVID-19 India Dataset, which was invaluable for this work.
