@@ -19,7 +19,15 @@ The goal of this project is to develop an effective forecasting model using self
 !pip install -r Requirements.txt
 ```
 
+
 You can install the necessary packages via `requirements.txt`:
 
 ```bash
 pip install -r requirements.txt
+```
+
+##Reference
+
+
+##Acknowledgment
+This project is supported by the Indian Council of Medical Research ([ICMR](https://covid19dashboard.mohfw.gov.in/)). We extend our gratitude to ICMR for providing the COVID-19 India Dataset, which was invaluable for this work.
