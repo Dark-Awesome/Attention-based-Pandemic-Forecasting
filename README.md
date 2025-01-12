@@ -15,10 +15,6 @@ The goal of this project is to develop an effective forecasting model using self
 - **Model Evaluation**: The accuracy and performance of the model are evaluated using metrics like MAE, RMSE, and others, with comparative analysis to traditional time-series models.
 
 ## Requirements
-```
-!pip install -r Requirements.txt
-```
-
 
 You can install the necessary packages via `requirements.txt`:
 
