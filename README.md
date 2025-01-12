@@ -22,7 +22,19 @@ You can install the necessary packages via `requirements.txt`:
 pip install -r requirements.txt
 ```
 
-## Reference
+# Usage
+You can directly train the model by running the following command:
+```
+python main.py
+```
+for hyperparameter tunning, edit the `hyperparameter.py` file.
+
+# Citation
+If you find this work is useful in your research or applications, please consider citing our work by the following BibTeX entry.
+```
+    @article{
+      }
+```
 
 
 ## Acknowledgment
