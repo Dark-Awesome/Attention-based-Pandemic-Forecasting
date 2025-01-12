@@ -11,8 +11,8 @@ import hyperparameter as config
 from utilities import *
 
 def main():
-    latlongdatapath = "/content/drive/MyDrive/TimeSeriesPrediction/district wise centroids 1 (1).csv"
-    covid_data = "/content/drive/MyDrive/TimeSeriesPrediction/covid-final-all.csv"
+    latlongdatapath = "DATA Path --- DISTRICT "
+    covid_data = "DATA Path --- COVID"
 
     df = pd.read_csv(covid_data)
     latlong = pd.read_csv(latlongdatapath)
