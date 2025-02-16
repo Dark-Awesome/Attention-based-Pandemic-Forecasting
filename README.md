@@ -8,7 +8,7 @@ Paper Link - [Indicon 24'](https://ieeekharagpur.org/event/21st-ieee-india-counc
 
 The goal of this project is to develop an effective forecasting model using self-attention mechanisms to predict the pandemic spread, particularly focusing on COVID-19 in India. We leverage the Self-Attention architecture, a part of transformer models, to capture long-range dependencies and improve the accuracy of pandemic predictions for different districts in India.
 
-![Forecasting on the Map of India](https://github.com/Dark-Awesome/Attention-based-Pandemic-Forecasting/blob/main/Github-IndiaMap.png)
+![Forecasting on the Map of India](https://github.com/Dark-Awesome/Attention-based-Pandemic-Forecasting/blob/main/repo/Github-IndiaMap.png)
 
 ## Key Features
 
