@@ -34,8 +34,14 @@ for hyperparameter tunning, edit the `hyperparameter.py` file.
 # Citation
 If you find this work is useful in your research or applications, please consider citing our work by the following BibTeX entry.
 ```
-    @article{
-      }
+@inproceedings{verma2024self,
+  title={Self-Attention Based Architecture for Forecasting the Pandemic Spread in India},
+  author={Verma, Meghanshu and Singh, Himanshu and Subudhi, Badri Narayan and Jakhetiya, Vinit and Satija, Udit},
+  booktitle={2024 IEEE 21st India Council International Conference (INDICON)},
+  pages={1--6},
+  year={2024},
+  organization={IEEE}
+}
 ```
 
 
